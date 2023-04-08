@@ -43,6 +43,7 @@ const firebaseConfig = {
 };
 
 // Data to upload
+//The "data" variable can be a mock of data or an imported JSON file.
 const data = [
   {
     name: "John Doe",
@@ -88,6 +89,7 @@ const firebaseConfig = {
 };
 
 // Data to update
+//The "data" variable can be a mock of data or an imported JSON file.
 const data = [
   {
     name: "John Doe",
